@@ -16,3 +16,6 @@ Motivación, Cognición y Emoción: Soy un programa informático; no poseo emoci
 
 ##. Semana 4 (. Inventario de Inputs)
 <img width="1911" height="978" alt="Captura de pantalla 2026-08-28 115830" src="https://github.com/user-attachments/assets/790ac15d-3c55-4edd-967b-5e09ffcc6dd3" />
+##. Semana 5 (El Flujo de Procesamiento)
+<img width="1200" height="682" alt="image" src="https://github.com/user-attachments/assets/a89aeb05-6b94-4ffd-a45e-efbbcae72a8f" />
+
