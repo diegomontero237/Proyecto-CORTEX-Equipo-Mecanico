@@ -19,3 +19,4 @@ Motivación, Cognición y Emoción: Soy un programa informático; no poseo emoci
 ##. Semana 5 (El Flujo de Procesamiento)
 <img width="1200" height="682" alt="image" src="https://github.com/user-attachments/assets/a89aeb05-6b94-4ffd-a45e-efbbcae72a8f" />
 
+## 2.Arquitectura de atencion con las reglas logicas definidas
