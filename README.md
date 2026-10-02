@@ -27,8 +27,6 @@ REGLAS DE ATENCION:Para definir las reglas de atencion,el sistema debe primero l
 ## 3. Arquitectura de Memoria
 # Arquitectura de Memoria a Largo Plazo (LTM) - Asistente Mecánico de Motos
 
-Esta tabla define la estructura de almacenamiento y recuperación de conocimiento a largo plazo para el bot asistente de mecánica, dividida en Memoria Semántica (conocimiento universal, bibliográfico y técnico) y Memoria Episódica (historial de interacciones y perfil del vehículo).
-
 | Tipo de Memoria | Categoría de Datos | Descripción | Ejemplo de Entrada / Referencia |
 | :--- | :--- | :--- | :--- |
 | **Semántica (LTM)** | Manuales, Libros y Fuentes Bibliográficas | Repositorio de manuales de taller oficiales (OEM), guías de diagnóstico de marcas y literatura técnica de referencia como el Manual Arias-Paz de Motocicletas. | `"¿En qué parte del manual de taller oficial de la Yamaha FZ indica cómo cambiar el aceite?"` |
