@@ -24,7 +24,7 @@ RUIDO En la arquitectura de nuestro Gatekeeper, el ruido se refiere a las entrad
 
 REGLAS DE ATENCION:Para definir las reglas de atencion,el sistema debe primero limpiar de la entrada del usuario todo el ruido conversacional, las historias de relleno y los datos vagos para extraer exclusivamente la información técnica relevante,despues debe exigir de forma obligatoria los datos clave de la máquina (marca, modelo, cilindrada y alimentación), antes de emitir cualquier concepto, activar un protocolo de emergencia que ordene la detención inmediata ante fallas críticas de frenos o fugas de combustible,prohibir guías sobre modificaciones peligrosas o ilegales, nunca dar informacion que haga probable un fallo mayor y termine en accidente o mas fallos para la moto
 
-## 3. Arquitectura de Memoria
+## 3. Arquitectura de Memoria (SEMANA ·7)
 # Arquitectura de Memoria a Largo Plazo (LTM) - Asistente Mecánico de Motos
 
 | Tipo de Memoria | Categoría de Datos | Descripción | Ejemplo de Entrada / Referencia |
