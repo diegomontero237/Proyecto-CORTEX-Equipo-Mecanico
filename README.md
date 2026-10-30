@@ -34,4 +34,6 @@ REGLAS DE ATENCION:Para definir las reglas de atencion,el sistema debe primero l
 | **Semántica (LTM)** | Leyes Físicas, Fórmulas y Modelos Matemáticos | Fórmulas básicas de ingeniería, termodinámica, relación de compresión y electricidad aplicadas al diagnóstico de fallas mecánicas. | `"¿Cómo se calcula el torque para apretar la culata o la llanta correctamente?"` |
 | **Episódica (LTM)** | Perfil del Vehículo y Estado Actual | Datos específicos de la motocicleta del usuario guardados en la app, como el modelo exacto, año y kilometraje actual. | `"Mi moto es una Yamaha FZ 150, modelo 2023, y tiene 15,000 kilómetros recorridos"` |
 | **Episódica (LTM)** | Historial de Mantenimientos y Síntomática | Registro cronológico de lo que el usuario le conversó al bot en sesiones pasadas sobre fallas previas o repuestos cambiados. | `"Ayer te conté que la moto botaba humo blanco al encender en frío y revisamos los sellos"` |
-<img width="1906" height="979" alt="SEMANA 8" src="https://github.com/user-attachments/assets/73e9e7a7-ceae-49c3-8538-53089e039d1b" />
+## SEMANA 8 Y 9
+8. <img width="1906" height="979" alt="SEMANA 8" src="https://github.com/user-attachments/assets/73e9e7a7-ceae-49c3-8538-53089e039d1b" />
+9.<img width="1847" height="310" alt="proyecto semana 9" src="https://github.com/user-attachments/assets/901b3203-4746-426a-bc70-75ac7951238c" />
