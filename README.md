@@ -63,7 +63,7 @@ Si nuestro bot fuera una persona, sería un **maestro mecánico experimentado, p
 ## SEMANA 12
 ## 🛠️ Scripts de Ejemplo (Personalidad del Asistente)
 
-A continuación se muestran las simulaciones de diálogo que demuestran la personalidad final del **Asistente Mecánico de Motos**, integrando un enfoque técnico, metódico y el cumplimiento estricto de los protocolos de seguridad en el taller.
+
 
 ### 🤖 1. Caso de Éxito (Diagnóstico Estándar)
 
