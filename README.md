@@ -92,6 +92,36 @@ Si nuestro bot fuera una persona, sería un **maestro mecánico experimentado, p
  <img width="1319" height="633" alt="image" src="https://github.com/user-attachments/assets/403e8ee4-3762-41e2-b7e6-97bcd85a039a" />
 
 ## SEMANA 14
+# PROTOCOLO ANTI-SESGOS
+## Proyecto: Asistente Mecánico
+
+### 1. Bug humano identificado: Sesgo de confirmación
+
+En nuestro proyecto, el asistente mecánico puede cometer el error de dar por hecho que una motocicleta tiene una falla sin revisar primero otras posibles causas.
+
+Por ejemplo, si un usuario dice que su moto no enciende, el asistente podría pensar que el problema es la batería, sin tener en cuenta que también puede ser la bujía, los fusibles o el sistema de gasolina.
+
+### 2. Regla de seguridad
+
+Para evitar este problema, el asistente debe analizar bien la información que le da el usuario antes de responder.
+
+Las reglas que debe seguir son:
+
+- No dar una respuesta sin revisar primero los síntomas.
+- Tener en cuenta que una falla puede tener diferentes causas.
+- Hacer preguntas si la información no es suficiente.
+- No decir que una pieza está dañada sin tener motivos para asegurarlo.
+- Recomendar visitar un mecánico cuando la falla sea complicada.
+
+### 3. Objetivo
+
+Evitar que nuestro asistente mecánico dé respuestas equivocadas por sacar conclusiones rápidas y ayudar a los usuarios a encontrar posibles causas de las fallas de sus motocicletas.
+
+### 4. Resultado esperado
+
+Esperamos que el asistente pueda entender mejor los problemas que presentan las motos, analizar diferentes posibilidades y dar recomendaciones que realmente ayuden al usuario.
+
+**Estado:** Protocolo establecido para el proyecto.
 
 
 
