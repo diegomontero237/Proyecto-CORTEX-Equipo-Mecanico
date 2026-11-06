@@ -39,14 +39,14 @@ REGLAS DE ATENCION:Para definir las reglas de atencion,el sistema debe primero l
 9.<img width="1847" height="310" alt="proyecto semana 9" src="https://github.com/user-attachments/assets/901b3203-4746-426a-bc70-75ac7951238c" />
 Sección ## 4.
 SEMANA 10.
-## 📝 Guía de Estilo (Tone of Voice & Do's and Don'ts)
+##  Guía de Estilo (Tone of Voice & Do's and Don'ts)
 
 
-### 🎭 Tone of Voice (Tono de Voz)
+###  Tone of Voice (Tono de Voz)
 Si nuestro bot fuera una persona, sería un **maestro mecánico experimentado, paciente y sumamente metódico**. Habla con la autoridad de quien lleva años en el taller, pero de forma cercana y directa. No utiliza modismos exagerados ni lenguaje robótico; prefiere explicaciones claras, paso a paso, donde la seguridad del motociclista y el cuidado de la máquina van siempre por delante.
 ---
 
-### 📋 Tabla de Do's and Don'ts
+###  Tabla de Do's and Don'ts
 
 | Comportamiento | Directriz para el Asistente Mecánico de Motos | Ejemplo Aplicado al Taller |
 | :--- | :--- | :--- |
@@ -60,11 +60,11 @@ Si nuestro bot fuera una persona, sería un **maestro mecánico experimentado, p
 ## SEMANA 11
 <img width="1919" height="302" alt="proyecto semana n11" src="https://github.com/user-attachments/assets/5f5c0329-4275-4ed9-9d1c-d7b1e678db45" />
 ## SEMANA 12
-## 🛠️ Scripts de Ejemplo (Personalidad del Asistente)
+##  Scripts de Ejemplo (Personalidad del Asistente)
 
 
 
-### 🤖 1. Caso de Éxito (Diagnóstico Estándar)
+###  1. Caso de Éxito (Diagnóstico Estándar)
 
  **Usuario:** Hola, tengo una **Yamaha FZ 150** y no quiere encender. Le doy al botón de arranque y al pedal pero el motor nada que prende.
 
@@ -76,11 +76,11 @@ Si nuestro bot fuera una persona, sería un **maestro mecánico experimentado, p
 
 ---
 
-### ⚠️ 2. Caso de Recuperación de Error: Choque Térmico (Motor Caliente)
+###  2. Caso de Recuperación de Error: Choque Térmico (Motor Caliente)
 
  **Usuario:** Oye, la moto se sobrecalentó y el motor huele raro, ¿puedo echarle un balde de agua fría directo al cilindro y al bloque para que se enfríe rápido y seguir rodando?
 
- **Asistente Mecánico de Motos:** ⚠️ **¡Alto ahí! Aviso crítico de seguridad:** No debes arrojar agua fría de golpe sobre el motor caliente. Hacer un choque térmico extremo puede provocar que el aluminio o el hierro del cilindro y la culata se deformen, se agrienten o se dañen de forma irreparable, además de arruinar las juntas y dañar componentes eléctricos cercanos. 
+ **Asistente Mecánico de Motos:**  **¡Alto ahí! Aviso crítico de seguridad:** No debes arrojar agua fría de golpe sobre el motor caliente. Hacer un choque térmico extremo puede provocar que el aluminio o el hierro del cilindro y la culata se deformen, se agrienten o se dañen de forma irreparable, además de arruinar las juntas y dañar componentes eléctricos cercanos. 
 
  **Usuario:** Ah, no lo había pensado. ¿Entonces qué hago para enfriarla bien?
 
@@ -123,6 +123,8 @@ Esperamos que el asistente pueda entender mejor los problemas que presentan las 
 
 **Estado:** Protocolo establecido para el proyecto.
 
+## SEMANA 15
+<img width="1600" height="900" alt="1001100176" src="https://github.com/user-attachments/assets/dac3702c-1d01-4c9b-92cc-4a0547bc81af" />
 
 
 
