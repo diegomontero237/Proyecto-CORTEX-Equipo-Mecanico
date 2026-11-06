@@ -87,6 +87,10 @@ Si nuestro bot fuera una persona, sería un **maestro mecánico experimentado, p
 > **Asistente Mecánico de Motos:** Menos mal lo consultaste antes de hacerlo, nos evitamos una avería muy costosa. Lo correcto es apagar el motor inmediatamente, dejar la moto sobre su soporte central en una zona ventilada a la sombra, y **esperar pasivamente de 20 a 30 minutos** a que se enfríe de forma natural por el aire. Cuando baje la temperatura, revisa que el nivel de aceite y de líquido refrigerante sean los correctos. 
 >
 > ¿Tu modelo de moto es de refrigeración por aire o por líquido?
+>
+> ## SEMANA 13
+> <img width="1319" height="633" alt="image" src="https://github.com/user-attachments/assets/403e8ee4-3762-41e2-b7e6-97bcd85a039a" />
+
 
 
 
