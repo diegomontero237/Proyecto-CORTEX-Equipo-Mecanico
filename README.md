@@ -66,30 +66,32 @@ Si nuestro bot fuera una persona, sería un **maestro mecánico experimentado, p
 
 ### 🤖 1. Caso de Éxito (Diagnóstico Estándar)
 
-> **Usuario:** Hola, tengo una **Yamaha FZ 150** y no quiere encender. Le doy al botón de arranque y al pedal pero el motor nada que prende.
->
-> **Asistente Mecánico de Motos:** ¡Hola! Entendido. Tratándose de una Yamaha FZ 150, antes de revisar componentes eléctricos o desarmar piezas, asegúrate de que la moto esté sobre su gato central en una superficie plana y el interruptor de encendido de emergencia (*kill switch*) en posición "ON". ¿Has notado si el motor de arranque gira con fuerza o si hay olor a gasolina cruda?
->
-> **Usuario:** Sí gira con fuerza, pero se siente como si no tuviera chispa, y a veces huele un poco a gasolina.
->
-> **Asistente Mecánico de Motos:** Perfecto. Es muy probable que la bujía esté sucia, carbonizada o ahogada por exceso de combustible. Vamos a revisarla: retira con cuidado el capuchón de la bujía, limpia la suciedad alrededor para que no caiga basura al cilindro y usa una llave de bujías adecuada para desmontarla. *Verificación:* ¿Me confirmas si la punta de la bujía se ve húmeda o con hollín negro al sacarla?
+ **Usuario:** Hola, tengo una **Yamaha FZ 150** y no quiere encender. Le doy al botón de arranque y al pedal pero el motor nada que prende.
+
+ **Asistente Mecánico de Motos:** ¡Hola! Entendido. Tratándose de una Yamaha FZ 150, antes de revisar componentes eléctricos o desarmar piezas, asegúrate de que la moto esté sobre su gato central en una superficie plana y el interruptor de encendido de emergencia (*kill switch*) en posición "ON". ¿Has notado si el motor de arranque gira con fuerza o si hay olor a gasolina cruda?
+
+ **Usuario:** Sí gira con fuerza, pero se siente como si no tuviera chispa, y a veces huele un poco a gasolina.
+
+ **Asistente Mecánico de Motos:** Perfecto. Es muy probable que la bujía esté sucia, carbonizada o ahogada por exceso de combustible. Vamos a revisarla: retira con cuidado el capuchón de la bujía, limpia la suciedad alrededor para que no caiga basura al cilindro y usa una llave de bujías adecuada para desmontarla. *Verificación:* ¿Me confirmas si la punta de la bujía se ve húmeda o con hollín negro al sacarla?
 
 ---
 
 ### ⚠️ 2. Caso de Recuperación de Error: Choque Térmico (Motor Caliente)
 
-> **Usuario:** Oye, la moto se sobrecalentó y el motor huele raro, ¿puedo echarle un balde de agua fría directo al cilindro y al bloque para que se enfríe rápido y seguir rodando?
->
-> **Asistente Mecánico de Motos:** ⚠️ **¡Alto ahí! Aviso crítico de seguridad:** No debes arrojar agua fría de golpe sobre el motor caliente. Hacer un choque térmico extremo puede provocar que el aluminio o el hierro del cilindro y la culata se deformen, se agrienten o se dañen de forma irreparable, además de arruinar las juntas y dañar componentes eléctricos cercanos. 
->
-> **Usuario:** Ah, no lo había pensado. ¿Entonces qué hago para enfriarla bien?
->
-> **Asistente Mecánico de Motos:** Menos mal lo consultaste antes de hacerlo, nos evitamos una avería muy costosa. Lo correcto es apagar el motor inmediatamente, dejar la moto sobre su soporte central en una zona ventilada a la sombra, y **esperar pasivamente de 20 a 30 minutos** a que se enfríe de forma natural por el aire. Cuando baje la temperatura, revisa que el nivel de aceite y de líquido refrigerante sean los correctos. 
->
-> ¿Tu modelo de moto es de refrigeración por aire o por líquido?
->
-> ## SEMANA 13
-> <img width="1319" height="633" alt="image" src="https://github.com/user-attachments/assets/403e8ee4-3762-41e2-b7e6-97bcd85a039a" />
+ **Usuario:** Oye, la moto se sobrecalentó y el motor huele raro, ¿puedo echarle un balde de agua fría directo al cilindro y al bloque para que se enfríe rápido y seguir rodando?
+
+ **Asistente Mecánico de Motos:** ⚠️ **¡Alto ahí! Aviso crítico de seguridad:** No debes arrojar agua fría de golpe sobre el motor caliente. Hacer un choque térmico extremo puede provocar que el aluminio o el hierro del cilindro y la culata se deformen, se agrienten o se dañen de forma irreparable, además de arruinar las juntas y dañar componentes eléctricos cercanos. 
+
+ **Usuario:** Ah, no lo había pensado. ¿Entonces qué hago para enfriarla bien?
+
+ **Asistente Mecánico de Motos:** Menos mal lo consultaste antes de hacerlo, nos evitamos una avería muy costosa. Lo correcto es apagar el motor inmediatamente, dejar la moto sobre su soporte central en una zona ventilada a la sombra, y **esperar pasivamente de 20 a 30 minutos** a que se enfríe de forma natural por el aire. Cuando baje la temperatura, revisa que el nivel de aceite y de líquido refrigerante sean los correctos. 
+
+ ¿Tu modelo de moto es de refrigeración por aire o por líquido?
+
+ ## SEMANA 13
+ <img width="1319" height="633" alt="image" src="https://github.com/user-attachments/assets/403e8ee4-3762-41e2-b7e6-97bcd85a039a" />
+
+## SEMANA 14
 
 
 
