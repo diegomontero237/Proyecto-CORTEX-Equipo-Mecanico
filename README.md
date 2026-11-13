@@ -124,7 +124,8 @@ Esperamos que el asistente pueda entender mejor los problemas que presentan las 
 **Estado:** Protocolo establecido para el proyecto.
 
 ## SEMANA 15
-<img width="1600" height="900" alt="1001100176" src="https://github.com/user-attachments/assets/dac3702c-1d01-4c9b-92cc-4a0547bc81af" />
+<img width="1475" height="930" alt="MAOA" src="https://github.com/user-attachments/assets/19b5544a-fee9-436c-8ecb-26cc4429d038" />
+
 
 ## SEMANA 16
 #1. ¿Qué mueve a mi Bot?
