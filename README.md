@@ -139,7 +139,52 @@ Meta matemática:
 
 Maximizar la eficiencia y satisfacción de los usuarios mediante respuestas rápidas, claras y precisas sobre mecánica de motocicletas, buscando mejorar la identificación de fallas y la prevención de problemas mecánicos.
 
-#2.## 6. Motivación y Control ### 6.1 Meta principal La meta principal del Asistente Mecánico es ayudar a los motociclistas a identificar posibles fallas mecánicas en sus motos, brindando información clara, recomendaciones y posibles soluciones para que puedan entender qué está pasando con su vehículo. ### 6.2 Métricas de éxito Para saber si nuestro agente está cumpliendo su objetivo, tendremos en cuenta los siguientes aspectos: - **Precisión:** que las posibles causas de las fallas sean correctas y tengan sentido. - **Rapidez:** que el asistente responda en el menor tiempo posible. - **Satisfacción del usuario:** que las respuestas sean claras y ayuden a resolver sus dudas. - **Seguridad:** que no recomiende procedimientos que puedan poner en peligro al usuario. - **Utilidad:** que pueda orientar sobre diferentes problemas comunes en motocicletas. ### 6.3 Motivaciones y conflictos El asistente busca responder rápidamente, pero también necesita dar información conf
+#2. 6. Motivación y Control
+6.1 Meta principal
+La meta principal del Asistente Mecánico es ayudar a los motociclistas a identificar posibles fallas mecánicas en sus motos, brindando información clara, recomendaciones y posibles soluciones para que puedan entender qué está pasando con su vehículo.
 
+6.2 Métricas de éxito
+Para saber si nuestro agente está cumpliendo su objetivo, tendremos en cuenta los siguientes aspectos:
+
+Precisión: que las posibles causas de las fallas sean correctas y tengan sentido.
+
+Rapidez: que el asistente responda en el menor tiempo posible.
+
+Satisfacción del usuario: que las respuestas sean claras y ayuden a resolver sus dudas.
+
+Seguridad: que no recomiende procedimientos que puedan poner en peligro al usuario.
+
+Utilidad: que pueda orientar sobre diferentes problemas comunes en motocicletas.
+
+6.3 Motivaciones y conflictos
+El asistente busca responder rápidamente, pero también necesita dar información confiable. En ocasiones, para identificar correctamente una falla tendrá que realizar varias preguntas antes de dar una respuesta.
+
+Por esta razón, nuestro agente le dará mayor importancia a la seguridad y precisión del diagnóstico que a responder rápidamente.
+
+6.4 Control del agente
+6. Motivación y Control
+6.1 Meta principal
+La meta principal del Asistente Mecánico es ayudar a los motociclistas a identificar posibles fallas mecánicas en sus motos, brindando información clara, recomendaciones y posibles soluciones para que puedan entender qué está pasando con su vehículo.
+
+6.2 Métricas de éxito
+Para saber si nuestro agente está cumpliendo su objetivo, tendremos en cuenta los siguientes aspectos:
+
+Precisión: que las posibles causas de las fallas sean correctas y tengan sentido.
+
+Rapidez: que el asistente responda en el menor tiempo posible.
+
+Satisfacción del usuario: que las respuestas sean claras y ayuden a resolver sus dudas.
+
+Seguridad: que no recomiende procedimientos que puedan poner en peligro al usuario.
+
+Utilidad: que pueda orientar sobre diferentes problemas comunes en motocicletas.
+
+6.3 Motivaciones y conflictos
+El asistente busca responder rápidamente, pero también necesita dar información confiable. En ocasiones, para identificar correctamente una falla tendrá que realizar varias preguntas antes de dar una respuesta.
+
+Por esta razón, nuestro agente le dará mayor importancia a la seguridad y precisión del diagnóstico que a responder rápidamente.
+
+6.4 Control del agente
+El asistente debe revisar la información que proporciona, reconocer cuando no tiene suficientes datos y evitar dar diagnósticos como si fueran completamente seguros. Cuando la falla sea grave o requiera conocimientos especializados, deberá recomendar acudir a un mecánico profesional.
 
 
