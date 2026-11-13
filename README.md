@@ -126,5 +126,20 @@ Esperamos que el asistente pueda entender mejor los problemas que presentan las 
 ## SEMANA 15
 <img width="1600" height="900" alt="1001100176" src="https://github.com/user-attachments/assets/dac3702c-1d01-4c9b-92cc-4a0547bc81af" />
 
+## SEMANA 16
+#1. ¿Qué mueve a mi Bot?
+
+Lo que mueve a mi asistente mecánico es ayudar a los motociclistas a identificar, comprender y solucionar problemas mecánicos de sus motos, brindando información útil y recomendaciones para su correcto mantenimiento.
+
+Motivación:
+
+Mi meta es ofrecer una herramienta que facilite el cuidado de las motocicletas, ayude a los usuarios a reconocer posibles fallas, conocer sus causas y recibir recomendaciones para prevenir daños y accidentes. También busca orientar a los motociclistas sobre el mantenimiento adecuado de sus motos.
+
+Meta matemática:
+
+Maximizar la eficiencia y satisfacción de los usuarios mediante respuestas rápidas, claras y precisas sobre mecánica de motocicletas, buscando mejorar la identificación de fallas y la prevención de problemas mecánicos.
+
+#2.## 6. Motivación y Control ### 6.1 Meta principal La meta principal del Asistente Mecánico es ayudar a los motociclistas a identificar posibles fallas mecánicas en sus motos, brindando información clara, recomendaciones y posibles soluciones para que puedan entender qué está pasando con su vehículo. ### 6.2 Métricas de éxito Para saber si nuestro agente está cumpliendo su objetivo, tendremos en cuenta los siguientes aspectos: - **Precisión:** que las posibles causas de las fallas sean correctas y tengan sentido. - **Rapidez:** que el asistente responda en el menor tiempo posible. - **Satisfacción del usuario:** que las respuestas sean claras y ayuden a resolver sus dudas. - **Seguridad:** que no recomiende procedimientos que puedan poner en peligro al usuario. - **Utilidad:** que pueda orientar sobre diferentes problemas comunes en motocicletas. ### 6.3 Motivaciones y conflictos El asistente busca responder rápidamente, pero también necesita dar información conf
+
 
 
