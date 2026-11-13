@@ -145,8 +145,12 @@ El éxito del Asistente Mecánico consiste en ayudar a los usuarios a identifica
 ## SEMANA 17
 <img width="1919" height="906" alt="ultima semana" src="https://github.com/user-attachments/assets/fb6738d1-4f1f-4bef-ba2a-e352f202f6fa" />
 
+ENLACES MIRO
+https://miro.com/welcomeonboard/NVpOelFhZi9MZ2N4SXhPQXlBOHIzdGNISVZZdmZqRjl2dW1tTkNRREtWNEYrV0ZPNGIrbUtoOTJtMThKR1k2RVNwUnh6c0I4eHpDNENUVVNPWEY2MEROVFlqcHpKNHdtZFNXZzNLUVlCbzNlck1Yczg2bEcrL0xDY1Z4ajU0aW9hWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=356836915143
 
+https://miro.com/welcomeonboard/YnlyWWE3dzN0VENIQmxrQVhRQzlEaDNhNXlVanYreDBVYXZHeGQxaGZ4T1pYNTRTK0FWZThURDVhTnhvNkNKdFBhVkdwUnJFR3htdzE1ZmlWNkFENGpOVFlqcHpKNHdtZFNXZzNLUVlCbzBDRTJjMU13ZFc3TTBtZVBLMnozWWhQdGo1ZEV3bUdPQWRZUHQzSGl6V2NBPT0hdjE=?share_link_id=488586597661
 
+https://miro.com/welcomeonboard/eVpwbjlkMzlmdjM4aXNkdXc4ZnZjR08wc2I4ekZpWGQ1OFI1T3RkVkdkeER5eC9jR1ptWkVOTmJzSTA4UU9TRXcvY3l1ZkV0bHo3VzRFa0lsSDljNHpOVFlqcHpKNHdtZFNXZzNLUVlCbzFCTGFUZUwyL1JhK09QZytBUHh0Y0tBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=796276311050
 
 
 
